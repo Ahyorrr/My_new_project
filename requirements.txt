@@ -14,3 +14,4 @@ setuptools~=57.0.0
 SQLAlchemy~=1.4.31
 six~=1.16.0
 uwsgi
+Flask-RESTful
